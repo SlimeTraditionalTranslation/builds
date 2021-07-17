@@ -606,5 +606,23 @@
 				"1": "11"
 			}
 		}
+	},
+	"SlimeTraditionalTranslation/SlimeTinker:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "TEA",
+            "abandoned": false,
+            "createJar": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.16.x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#171\">TEA #171</a> 或更高"
+			}
+		}
 	}
 }
