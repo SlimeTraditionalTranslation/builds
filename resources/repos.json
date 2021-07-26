@@ -624,5 +624,23 @@
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#171\">TEA #171</a> 或更高"
 			}
 		}
+	},
+	"SlimeTraditionalTranslation/PotionExpansion:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "WEI",
+            "abandoned": false,
+            "createJar": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#177\">TEA #177</a> 或更高"
+			}
+		}
 	}
 }
