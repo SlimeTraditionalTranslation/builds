@@ -32,7 +32,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -50,7 +50,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -68,8 +68,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"6": "<em>不再需要!</em>",
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -87,7 +86,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"12": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#61\">TEA #61</a> 或更高",
@@ -106,7 +105,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -124,7 +123,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -142,7 +141,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -160,7 +159,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -178,7 +177,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -196,7 +195,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -214,7 +213,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -232,7 +231,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -385,7 +384,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"20": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#81\">TEA #81</a> 或更高",
@@ -407,7 +406,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#53\">TEA #53</a> 或更高"
@@ -425,7 +424,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#53\">TEA #53</a> 或更高"
@@ -501,7 +500,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x, 1.17.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#152\">TEA #152</a> 或更高"
