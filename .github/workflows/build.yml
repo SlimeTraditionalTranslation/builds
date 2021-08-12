@@ -23,7 +23,7 @@ jobs:
         ref: gh-pages
 
     - name: Setting up Java 16
-      uses: actions/setup-java@v2.1.0
+      uses: actions/setup-java@v2.2.0
       with:
         distribution: 'adopt'
         java-version: '16'
@@ -31,9 +31,9 @@ jobs:
         architecture: x64
 
     - name: Setting up node.js
-      uses: actions/setup-node@v2.3.0
+      uses: actions/setup-node@v2.4.0
       with:
-        node-version: '12'
+        node-version: '16.6.0'
 
     - name: Installing dependencies
       run: npm install

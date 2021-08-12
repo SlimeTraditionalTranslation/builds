@@ -19,9 +19,9 @@ jobs:
       with:
         ref: gh-pages
     - name: Setting up node.js
-      uses: actions/setup-node@v2.3.0
+      uses: actions/setup-node@v2.4.0
       with:
-        node-version: '12'
+        node-version: '16'
     - name: Installing dependencies
       run: npm install
     - name: Run Auto Formatter
