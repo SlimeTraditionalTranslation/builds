@@ -267,7 +267,7 @@
 		},
 		"options": {
 			"prefix": "EFI",
-            "abandoned": false,
+            "abandoned": true,
             "createJar": true
 		},
 		"dependencies": {
@@ -437,7 +437,7 @@
 		},
 		"options": {
 			"prefix": "EFI",
-            "abandoned": false,
+            "abandoned": true,
             "createJar": true
 		},
 		"dependencies": {
@@ -612,7 +612,7 @@
 		},
 		"options": {
 			"prefix": "TEA",
-            "abandoned": false,
+            "abandoned": true,
             "createJar": true
 		},
 		"dependencies": {

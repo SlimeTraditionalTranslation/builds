@@ -62,7 +62,7 @@ function addRepository(table, directory, owner, repo, branch, projectType) {
                 <img alt="project page" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/beaker.svg" />
             </td>
             <td class="table_label" style="width: auto;">
-                <a class="link_info" href="${directory}">${repo} (${branch})${projectType == 'abandoned' ? " [abandoned]" : ""}</a>
+                <a class="link_info" href="${directory}">${repo} (${branch})${projectType == 'abandoned' ? " [已無更新]" : ""}</a>
             </td>
             <td>
                 <img style="float: right;" alt="project badge" src="https://xMikux.github.io/builds/${directory}/badge.svg" />
