@@ -1,0 +1,161 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------------< io.github.seggan.emc2:EMC2 >---------------------
+[INFO] Building EMC2 EFI - 7 (git 182bc358)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/io/github/mooy1/InfinityLib/1.2.3/InfinityLib-1.2.3.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/io/github/mooy1/InfinityLib/1.2.3/InfinityLib-1.2.3.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/io/github/mooy1/InfinityLib/1.2.3/InfinityLib-1.2.3.pom (5.8 kB at 33 kB/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/seeseemelk/MockBukkit-v1.16/1.0.0/MockBukkit-v1.16-1.0.0.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/seeseemelk/MockBukkit-v1.16/1.0.0/MockBukkit-v1.16-1.0.0.pom
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/com/github/seeseemelk/MockBukkit-v1.16/1.0.0/MockBukkit-v1.16-1.0.0.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/github/seeseemelk/MockBukkit-v1.16/1.0.0/MockBukkit-v1.16-1.0.0.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/github/seeseemelk/MockBukkit-v1.16/1.0.0/MockBukkit-v1.16-1.0.0.pom (2.5 kB at 31 kB/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/mockito/mockito-inline/3.10.0/mockito-inline-3.10.0.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/mockito/mockito-inline/3.10.0/mockito-inline-3.10.0.pom
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/mockito/mockito-inline/3.10.0/mockito-inline-3.10.0.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-inline/3.10.0/mockito-inline-3.10.0.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-inline/3.10.0/mockito-inline-3.10.0.pom (2.2 kB at 123 kB/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/mockito/mockito-core/3.10.0/mockito-core-3.10.0.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/mockito/mockito-core/3.10.0/mockito-core-3.10.0.pom
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/mockito/mockito-core/3.10.0/mockito-core-3.10.0.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.10.0/mockito-core-3.10.0.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.10.0/mockito-core-3.10.0.pom (2.5 kB at 139 kB/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/bytebuddy/byte-buddy/1.11.0/byte-buddy-1.11.0.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/bytebuddy/byte-buddy/1.11.0/byte-buddy-1.11.0.pom
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/net/bytebuddy/byte-buddy/1.11.0/byte-buddy-1.11.0.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.0/byte-buddy-1.11.0.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.0/byte-buddy-1.11.0.pom (11 kB at 649 kB/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/bytebuddy/byte-buddy-parent/1.11.0/byte-buddy-parent-1.11.0.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/bytebuddy/byte-buddy-parent/1.11.0/byte-buddy-parent-1.11.0.pom
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/net/bytebuddy/byte-buddy-parent/1.11.0/byte-buddy-parent-1.11.0.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.11.0/byte-buddy-parent-1.11.0.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.11.0/byte-buddy-parent-1.11.0.pom (42 kB at 1.4 MB/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/bytebuddy/byte-buddy-agent/1.11.0/byte-buddy-agent-1.11.0.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/bytebuddy/byte-buddy-agent/1.11.0/byte-buddy-agent-1.11.0.pom
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/net/bytebuddy/byte-buddy-agent/1.11.0/byte-buddy-agent-1.11.0.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.11.0/byte-buddy-agent-1.11.0.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.11.0/byte-buddy-agent-1.11.0.pom (9.6 kB at 309 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/objenesis/objenesis/3.2/objenesis-3.2.pom
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/objenesis/objenesis/3.2/objenesis-3.2.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.2/objenesis-3.2.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.2/objenesis-3.2.pom (0 B at 0 B/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/objenesis/objenesis-parent/3.2/objenesis-parent-3.2.pom
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/objenesis/objenesis-parent/3.2/objenesis-parent-3.2.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/3.2/objenesis-parent-3.2.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/3.2/objenesis-parent-3.2.pom (0 B at 0 B/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/Sefiraat/SlimeTinker/2b3eff0431/SlimeTinker-2b3eff0431.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/Sefiraat/SlimeTinker/2b3eff0431/SlimeTinker-2b3eff0431.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/Sefiraat/SlimeTinker/2b3eff0431/SlimeTinker-2b3eff0431.pom (5.1 kB at 81 kB/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/io/github/mooy1/InfinityLib/1.2.3/InfinityLib-1.2.3.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/seeseemelk/MockBukkit-v1.16/1.0.0/MockBukkit-v1.16-1.0.0.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/junit/jupiter/junit-jupiter-params/5.7.1/junit-jupiter-params-5.7.1.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/junit/jupiter/junit-jupiter/5.7.1/junit-jupiter-5.7.1.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/mockito/mockito-inline/3.10.0/mockito-inline-3.10.0.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/mockito/mockito-core/3.10.0/mockito-core-3.10.0.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/bytebuddy/byte-buddy/1.11.0/byte-buddy-1.11.0.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/bytebuddy/byte-buddy-agent/1.11.0/byte-buddy-agent-1.11.0.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/Sefiraat/SlimeTinker/2b3eff0431/SlimeTinker-2b3eff0431.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/io/github/mooy1/InfinityLib/1.2.3/InfinityLib-1.2.3.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/seeseemelk/MockBukkit-v1.16/1.0.0/MockBukkit-v1.16-1.0.0.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/junit/jupiter/junit-jupiter/5.7.1/junit-jupiter-5.7.1.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/junit/jupiter/junit-jupiter-params/5.7.1/junit-jupiter-params-5.7.1.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar
+[INFO] Downloaded from jitpack.io: https://jitpack.io/io/github/mooy1/InfinityLib/1.2.3/InfinityLib-1.2.3.jar (91 kB at 997 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/mockito/mockito-inline/3.10.0/mockito-inline-3.10.0.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/mockito/mockito-core/3.10.0/mockito-core-3.10.0.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/bytebuddy/byte-buddy/1.11.0/byte-buddy-1.11.0.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/bytebuddy/byte-buddy-agent/1.11.0/byte-buddy-agent-1.11.0.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/objenesis/objenesis/3.2/objenesis-3.2.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/Sefiraat/SlimeTinker/2b3eff0431/SlimeTinker-2b3eff0431.jar
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/Sefiraat/SlimeTinker/2b3eff0431/SlimeTinker-2b3eff0431.jar (865 kB at 2.0 MB/s)
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/com/github/seeseemelk/MockBukkit-v1.16/1.0.0/MockBukkit-v1.16-1.0.0.jar
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/junit/jupiter/junit-jupiter/5.7.1/junit-jupiter-5.7.1.jar
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/junit/jupiter/junit-jupiter-params/5.7.1/junit-jupiter-params-5.7.1.jar
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/mockito/mockito-inline/3.10.0/mockito-inline-3.10.0.jar
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/mockito/mockito-core/3.10.0/mockito-core-3.10.0.jar
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/net/bytebuddy/byte-buddy/1.11.0/byte-buddy-1.11.0.jar
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/net/bytebuddy/byte-buddy-agent/1.11.0/byte-buddy-agent-1.11.0.jar
+[INFO] Downloading from CodeMC: https://repo.codemc.org/repository/maven-public/org/objenesis/objenesis/3.2/objenesis-3.2.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/github/seeseemelk/MockBukkit-v1.16/1.0.0/MockBukkit-v1.16-1.0.0.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.7.1/junit-jupiter-5.7.1.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.7.1/junit-jupiter-params-5.7.1.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.7.1/junit-jupiter-5.7.1.jar (6.4 kB at 205 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-inline/3.10.0/mockito-inline-3.10.0.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-inline/3.10.0/mockito-inline-3.10.0.jar (1.5 kB at 37 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.10.0/mockito-core-3.10.0.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar (181 kB at 2.2 MB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.0/byte-buddy-1.11.0.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.11.0/byte-buddy-agent-1.11.0.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar (213 kB at 2.3 MB/s)
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/github/seeseemelk/MockBukkit-v1.16/1.0.0/MockBukkit-v1.16-1.0.0.jar (265 kB at 2.8 MB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.2/objenesis-3.2.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.2/objenesis-3.2.jar (0 B at 0 B/s)
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.10.0/mockito-core-3.10.0.jar (671 kB at 5.2 MB/s)
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.11.0/byte-buddy-agent-1.11.0.jar (251 kB at 1.9 MB/s)
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.7.1/junit-jupiter-params-5.7.1.jar (567 kB at 3.9 MB/s)
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.11.0/byte-buddy-1.11.0.jar (3.5 MB at 14 MB/s)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ EMC2 ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ EMC2 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ EMC2 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 10 source files to /home/runner/work/builds/builds/SlimeTraditionalTranslation/EMC2/master/files/target/classes
+[WARNING] /home/runner/work/builds/builds/SlimeTraditionalTranslation/EMC2/master/files/src/main/java/io/github/seggan/emc2/items/Rematerializer.java: /home/runner/work/builds/builds/SlimeTraditionalTranslation/EMC2/master/files/src/main/java/io/github/seggan/emc2/items/Rematerializer.java uses or overrides a deprecated API.
+[WARNING] /home/runner/work/builds/builds/SlimeTraditionalTranslation/EMC2/master/files/src/main/java/io/github/seggan/emc2/items/Rematerializer.java: Recompile with -Xlint:deprecation for details.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ EMC2 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/SlimeTraditionalTranslation/EMC2/master/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ EMC2 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to /home/runner/work/builds/builds/SlimeTraditionalTranslation/EMC2/master/files/target/test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:3.0.0-M5:test (default-test) @ EMC2 ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running io.github.seggan.emc2.TestMaterials
+Sep 07, 2021 3:14:31 PM org.bukkit.plugin.java.JavaPluginLoader <init>
+WARNING: Could not initialize LibraryLoader (missing dependencies?)
+[15:14:32 INFO]: [Slimefun] Parent "slimefun:electricity" for LockedItemGroup "emc2:emc2_category" was not found, probably just disabled.
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.11 s - in io.github.seggan.emc2.TestMaterials
+[INFO] Running io.github.seggan.emc2.TestCaps
+[15:14:32 WARNING]: Could not initialize LibraryLoader (missing dependencies?)
+[15:14:32 INFO]: [Slimefun] Parent "slimefun:electricity" for LockedItemGroup "emc2:emc2_category" was not found, probably just disabled.
+[ERROR] OpenJDK 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.068 s - in io.github.seggan.emc2.TestCaps
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ EMC2 ---
+[INFO] Building jar: /home/runner/work/builds/builds/SlimeTraditionalTranslation/EMC2/master/files/target/EMC2-7.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ EMC2 ---
+[INFO] Including io.github.mooy1:InfinityLib:jar:1.2.3 in the shaded jar.
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/SlimeTraditionalTranslation/EMC2/master/files/target/EMC2-7.jar with /home/runner/work/builds/builds/SlimeTraditionalTranslation/EMC2/master/files/target/EMC2-EFI - 7 (git 182bc358)-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/SlimeTraditionalTranslation/EMC2/master/files/dependency-reduced-pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  12.226 s
+[INFO] Finished at: 2021-09-07T15:14:34Z
+[INFO] ------------------------------------------------------------------------
