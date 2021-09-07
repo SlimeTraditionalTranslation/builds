@@ -1,0 +1,61 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< dev.j3fftw:LiteXpansion >-----------------------
+[INFO] Building LiteXpansion EFI - 44 (git ec080214)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/spigotmc/spigot-api/1.17.1-R0.1-SNAPSHOT/spigot-api-1.17.1-R0.1-20210906.090212-67.pom
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/1.17.1-R0.1-SNAPSHOT/spigot-api-1.17.1-R0.1-20210906.090212-67.pom
+[INFO] Downloaded from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/1.17.1-R0.1-SNAPSHOT/spigot-api-1.17.1-R0.1-20210906.090212-67.pom (0 B at 0 B/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/yaml/snakeyaml/1.28/snakeyaml-1.28.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.28/snakeyaml-1.28.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.28/snakeyaml-1.28.pom (0 B at 0 B/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/1.17.1-R0.1-SNAPSHOT/spigot-api-1.17.1-R0.1-20210906.090212-67.jar
+[INFO] Downloaded from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/1.17.1-R0.1-SNAPSHOT/spigot-api-1.17.1-R0.1-20210906.090212-67.jar (0 B at 0 B/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/yaml/snakeyaml/1.28/snakeyaml-1.28.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.28/snakeyaml-1.28.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.28/snakeyaml-1.28.jar (0 B at 0 B/s)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ LiteXpansion ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ LiteXpansion ---
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 3 resources to .
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.5.1:compile (default-compile) @ LiteXpansion ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 39 source files to /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/target/classes
+[INFO] /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/src/main/java/dev/j3fftw/litexpansion/uumatter/UuMatterCategory.java: /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/src/main/java/dev/j3fftw/litexpansion/uumatter/UuMatterCategory.java uses or overrides a deprecated API.
+[INFO] /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/src/main/java/dev/j3fftw/litexpansion/uumatter/UuMatterCategory.java: Recompile with -Xlint:deprecation for details.
+[INFO] /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/src/main/java/dev/j3fftw/litexpansion/utils/Reflections.java: /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/src/main/java/dev/j3fftw/litexpansion/utils/Reflections.java uses unchecked or unsafe operations.
+[INFO] /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/src/main/java/dev/j3fftw/litexpansion/utils/Reflections.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ LiteXpansion ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.5.1:testCompile (default-testCompile) @ LiteXpansion ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ LiteXpansion ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ LiteXpansion ---
+[INFO] Building jar: /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/target/LiteXpansion-44.jar
+[INFO] --- maven-shade-plugin:2.3:shade (default) @ LiteXpansion ---
+[INFO] 
+[INFO] Including org.bstats:bstats-bukkit:jar:2.2.1 in the shaded jar.
+[INFO] Including org.bstats:bstats-base:jar:2.2.1 in the shaded jar.
+[INFO] Including com.github.SlimeTraditionalTranslation:extrautils:jar:33c4e0d in the shaded jar.
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/target/LiteXpansion-44.jar with /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/target/LiteXpansion-EFI - 44 (git ec080214)-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/dependency-reduced-pom.xml
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/SlimeTraditionalTranslation/LiteXpansion/master/files/dependency-reduced-pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.107 s
+[INFO] Finished at: 2021-09-07T15:12:24Z
+[INFO] ------------------------------------------------------------------------
