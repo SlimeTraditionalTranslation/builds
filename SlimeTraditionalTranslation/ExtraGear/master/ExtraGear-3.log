@@ -1,0 +1,64 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< io.github.thebusybiscuit:ExtraGear >-----------------
+[INFO] Building ExtraGear EFI - 3 (git 29280e68)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/com/github/thebusybiscuit/Slimefun4/RC-27/Slimefun4-RC-27.pom
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/thebusybiscuit/Slimefun4/RC-27/Slimefun4-RC-27.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/thebusybiscuit/Slimefun4/RC-27/Slimefun4-RC-27.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/thebusybiscuit/Slimefun4/RC-27/Slimefun4-RC-27.pom (14 kB at 86 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.pom
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.pom
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.pom
+[INFO] Downloaded from bstats-repo: https://repo.codemc.org/repository/maven-public/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.pom (953 B at 3.3 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/bstats/bstats/1.7/bstats-1.7.pom
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/bstats/bstats/1.7/bstats-1.7.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/bstats/bstats/1.7/bstats-1.7.pom
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/org/bstats/bstats/1.7/bstats-1.7.pom
+[INFO] Downloaded from bstats-repo: https://repo.codemc.org/repository/maven-public/org/bstats/bstats/1.7/bstats-1.7.pom (7.3 kB at 29 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/com/github/thebusybiscuit/Slimefun4/RC-27/Slimefun4-RC-27.jar
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/thebusybiscuit/Slimefun4/RC-27/Slimefun4-RC-27.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/thebusybiscuit/Slimefun4/RC-27/Slimefun4-RC-27.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.jar
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/thebusybiscuit/Slimefun4/RC-27/Slimefun4-RC-27.jar (4.3 MB at 16 MB/s)
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.jar
+[INFO] Downloaded from bstats-repo: https://repo.codemc.org/repository/maven-public/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.jar (20 kB at 60 kB/s)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ ExtraGear ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ ExtraGear ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ ExtraGear ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraGear/master/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ ExtraGear ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraGear/master/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ ExtraGear ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ ExtraGear ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ ExtraGear ---
+[INFO] Building jar: /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraGear/master/files/target/ExtraGear-3.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ ExtraGear ---
+[INFO] Including org.bstats:bstats-bukkit:jar:1.7 in the shaded jar.
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraGear/master/files/target/ExtraGear-3.jar with /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraGear/master/files/target/ExtraGear-EFI - 3 (git 29280e68)-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraGear/master/files/dependency-reduced-pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  7.728 s
+[INFO] Finished at: 2021-09-07T15:11:06Z
+[INFO] ------------------------------------------------------------------------
