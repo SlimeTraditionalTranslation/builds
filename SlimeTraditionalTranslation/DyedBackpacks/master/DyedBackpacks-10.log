@@ -1,0 +1,42 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------< io.github.thebusybiscuit:DyedBackpacks >---------------
+[INFO] Building DyedBackpacks EFI - 10 (git 0cd1aa5b)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ DyedBackpacks ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ DyedBackpacks ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ DyedBackpacks ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 3 source files to /home/runner/work/builds/builds/SlimeTraditionalTranslation/DyedBackpacks/master/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ DyedBackpacks ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/SlimeTraditionalTranslation/DyedBackpacks/master/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ DyedBackpacks ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ DyedBackpacks ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ DyedBackpacks ---
+[INFO] Building jar: /home/runner/work/builds/builds/SlimeTraditionalTranslation/DyedBackpacks/master/files/target/DyedBackpacks-10.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ DyedBackpacks ---
+[INFO] Including org.bstats:bstats-bukkit:jar:2.2.1 in the shaded jar.
+[INFO] Including org.bstats:bstats-base:jar:2.2.1 in the shaded jar.
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/SlimeTraditionalTranslation/DyedBackpacks/master/files/target/DyedBackpacks-10.jar with /home/runner/work/builds/builds/SlimeTraditionalTranslation/DyedBackpacks/master/files/target/DyedBackpacks-EFI - 10 (git 0cd1aa5b)-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/SlimeTraditionalTranslation/DyedBackpacks/master/files/dependency-reduced-pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.398 s
+[INFO] Finished at: 2021-09-07T15:10:19Z
+[INFO] ------------------------------------------------------------------------
