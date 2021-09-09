@@ -6,7 +6,8 @@
 		"options": {
 			"prefix": "TEA",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -28,7 +29,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -46,7 +48,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -64,7 +67,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -82,7 +86,8 @@
 		"options": {
 			"prefix": "WEI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -101,7 +106,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -119,7 +125,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -137,7 +144,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -155,7 +163,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -173,7 +182,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -191,7 +201,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -209,7 +220,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -227,7 +239,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -245,7 +258,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -268,7 +282,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": true,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -286,7 +301,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -307,7 +323,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -325,7 +342,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -344,7 +362,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -362,7 +381,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -380,7 +400,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -402,7 +423,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -420,7 +442,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -438,7 +461,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": true,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -459,7 +483,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -478,7 +503,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -496,7 +522,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -514,7 +541,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -532,7 +560,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -553,7 +582,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -574,7 +604,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -592,7 +623,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -613,7 +645,8 @@
 		"options": {
 			"prefix": "TEA",
             "abandoned": true,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -631,7 +664,8 @@
 		"options": {
 			"prefix": "WEI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -649,7 +683,8 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": true
+            "createJar": true,
+            "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {

@@ -101,13 +101,15 @@ function addBuild (job, logging) {
 
       builds.latest = job.id
 
-      // Apply any Tags
-      for (const build in builds) {
-        for (const tag in job.tags) {
-          if (job.tags[tag] === builds[build].sha) {
-            builds[build].candidate = 'RELEASE'
-            builds[build].tag = tag
-            break
+      if (!job.options || !job.options.ignoreTags) {
+        // Apply any Tags
+        for (const build in builds) {
+          for (const tag in job.tags) {
+            if (job.tags[tag] === builds[build].sha) {
+              builds[build].candidate = 'RELEASE'
+              builds[build].tag = tag
+              break
+            }
           }
         }
       }
