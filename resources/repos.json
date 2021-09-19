@@ -724,5 +724,27 @@
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#182\">TEA #182</a> 或更高"
 			}
 		}
+	},
+	"SlimeTraditionalTranslation/Galactifun:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true,
+            "ignoreTags": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.17.x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#188\">TEA #188</a> 或更高"
+			},
+			"Paper 版本": {
+			        "1": "<a class=\"link_info\" href=\"https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/257/downloads/paper-1.17.1-257.jar\">建構 257 或更高</a>"
+		        }
+		}
 	}
 }
