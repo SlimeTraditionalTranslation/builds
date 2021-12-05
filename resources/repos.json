@@ -294,15 +294,17 @@
 		},
 		"options": {
 			"prefix": "EFI",
-            "abandoned": true,
+            "abandoned": false,
             "createJar": true,
             "ignoreTags": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
+				"12": "1.16.x, 1.17.x",
 				"1": "1.16.x"
 			},
 			"Slimefun 版本": {
+				"12": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#205\">TEA #205</a> 或更高",
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#23\">TEA #23</a> 或更高"
 			}
 		}
