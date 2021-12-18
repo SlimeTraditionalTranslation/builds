@@ -750,7 +750,7 @@
 			    "1": "<a class=\"link_info\" href=\"https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/257/downloads/paper-1.17.1-257.jar\">建構 257 或更高</a>"
 		    }
 		}
-	}
+	},
 	"SlimeTraditionalTranslation/DankTech2:master": {
 		"sonar": {
 			"enabled": false
