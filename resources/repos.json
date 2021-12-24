@@ -788,5 +788,21 @@
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#188\">TEA #188</a> 或更高"
 		    }
 		}
+	},
+	"SlimeTraditionalTranslation/LuckyPandas:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true,
+            "ignoreTags": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.14.x+"
+		    }
+		}
 	}
 }
