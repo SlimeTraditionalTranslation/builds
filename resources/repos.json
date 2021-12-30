@@ -823,5 +823,24 @@
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#201\">TEA #201</a> 或更高"
 		    }
 		}
+	},
+	"SlimeTraditionalTranslation/Networks:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true,
+            "ignoreTags": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.16.x, 1.17.x, 1.18.x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#205\">TEA #205</a> 或更高"
+		    }
+		}
 	}
 }
