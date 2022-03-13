@@ -866,5 +866,24 @@
 				"1": "<a class=\"link_info\" href=\"https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/261/downloads/paper-1.17.1-261.jar\">建構 261+</a>"
 		    }
 		}
+	},
+	"SlimeTraditionalTranslation/VillagerUtil:main": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "WEI",
+            "abandoned": false,
+            "createJar": true,
+            "ignoreTags": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.18.x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#222\">TEA #222</a> 或更高"
+		    }
+		}
 	}
 }
