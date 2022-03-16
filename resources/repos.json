@@ -898,7 +898,7 @@
 		},
 		"dependencies": {
 			"Minecraft 版本": {
-				"1": "	1.14.x, 1.15.x, 1.16.x"
+				"1": "1.14.x, 1.15.x, 1.16.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#222\">TEA #222</a> 或更高"
