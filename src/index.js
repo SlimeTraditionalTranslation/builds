@@ -19,7 +19,7 @@ $(function() {
 
 function addProfile(user, repos) {
     $("#repos").append(
-        `<div class="box" style="width: 65%; margin: 2vh auto;">
+        `<div class="box box_user">
             <a style="padding-top: 1vh;" class="link_repo" href="https://github.com/${user}">
                 <img alt="profile" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/person.svg" class="profile_icon">
                 <span>${user}</span>
@@ -62,10 +62,10 @@ function addRepository(table, directory, owner, repo, branch, projectType) {
                 <img alt="project page" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/beaker.svg" />
             </td>
             <td class="table_label" style="width: auto;">
-                <a class="link_info" href="${directory}">${repo} (${branch})${projectType == 'abandoned' ? " [已無更新]" : ""}</a>
+                <a class="link_info" href="${directory}">${repo} (${branch})${projectType == 'abandoned' ? " [已無更新] [官方版可能還有更新，只是翻譯者無繼續維護]" : ""}</a>
             </td>
             <td>
-                <img style="float: right;" alt="project badge" src="https://xMikux.github.io/builds/${directory}/badge.svg" />
+                <img class="badge" alt="project badge" src="https://xmikux.github.io/builds/${directory}/badge.svg" />
             </td>
         </tr>
     `);
