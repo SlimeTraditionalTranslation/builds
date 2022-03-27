@@ -29,7 +29,7 @@
 		},
 		"options": {
 			"prefix": "EFI",
-            "abandoned": false,
+            "abandoned": true,
             "createJar": true,
             "ignoreTags": true
 		},
