@@ -959,5 +959,24 @@
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#226\">TEA #226</a> 或更高"
 		    }
 		}
+	},
+	"SlimefunGuguProject/Bump:main": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "GUGU",
+            "abandoned": false,
+            "createJar": true,
+            "ignoreTags": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.14+"
+			},
+			"建構資訊": {
+				"1": "此建構為外部網站, 請從該網站進行下載"
+		    }
+		}
 	}
 }
