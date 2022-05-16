@@ -967,7 +967,7 @@
 		"options": {
 			"prefix": "GUGU",
             "abandoned": false,
-            "createJar": true,
+            "createJar": false,
             "ignoreTags": true
 		},
 		"dependencies": {
