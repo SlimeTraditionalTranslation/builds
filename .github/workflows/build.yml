@@ -44,6 +44,7 @@ jobs:
         LOGIN_EMAIL: ${{ secrets.LOGIN_EMAIL }}
 
     - name: Running builds program
+      continue-on-error: true
       run: node src/single-run.js
       env:
         JSON_CONFIG: ${{ secrets.JSON_CONFIG }}
