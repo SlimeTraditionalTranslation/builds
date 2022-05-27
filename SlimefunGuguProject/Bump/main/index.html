@@ -63,7 +63,7 @@
                                     <img class="icon" alt="repository" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg">
                                 </td>
                                 <td class="info_label">
-                                    <a class="link_info" href="https://github.com/SlimefunGuguProject/Bump">GitHub 儲存庫</a>
+                                    <a class="link_info" href="https://github.com/SlimefunGuguProject/Bump/tree/main">GitHub 儲存庫</a>
                                 </td>
                             </tr>
                             <tr class="project_info">
@@ -72,6 +72,16 @@
                                 </td>
                                 <td class="info_label">
                                     <a class="link_info" href="https://github.com/SlimefunGuguProject/Bump/blob/main/README.md">ReadMe介紹</a>
+                                </td>
+                            </tr>
+                            <tr class="project_info">
+                                <td class="icon">
+                                    <img class="icon" alt="last successful build" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/checklist.svg">
+                                </td>
+                                <td class="info_label">
+                                    <a id="link_last_successful_build" class="trigger link_info">
+                                        最後的成功構建
+                                    </a>
                                 </td>
                             </tr>
                             <tr class="project_info">
@@ -120,9 +130,42 @@
                             <td class="icon">
                                 <img class="icon" alt="download" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/cloud-download.svg">
                             </td>
-                            <td class="info_table_middle">下載 (外部網站)</td>
+                            <td class="info_table_middle">下載 (.jar)</td>
                             <td>
-                                <a class="link_info" href="https://builds.guizhanss.net/SlimefunGuguProject/Bump/main">Bump 建構</a>
+                                <a id="current_download_jar" class="link_info" target="_blank" href="/Bump-${current_build}.jar">
+                                    <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg" />
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="icon">
+                                <img class="icon" alt="log file" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/file.svg">
+                            </td>
+                            <td class="info_table_middle">構建日誌</td>
+                            <td>
+                                <a id="current_download_log" class="link_info" target="_blank" href="/Bump-${current_build}.log">
+                                    <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg" />
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="icon">
+                                <img class="icon" alt="source code" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/code.svg">
+                            </td>
+                            <td class="info_table_middle">源碼</td>
+                            <td>
+                                <a id="current_tree" class="link_info" href="https://github.com/SlimefunGuguProject/Bump/tree/${current_commit}">GitHub</a>
+                            </td>
+                        </tr>
+                        <tr id="license_section">
+                            <td class="icon">
+                                <img class="icon" alt="license" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/law.svg">
+                            </td>
+                            <td class="info_table_middle">許可證</td>
+                            <td>
+                                <a id="current_license" class="link_info" href="${current_license_url}">
+                                    <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg" />
+                                </a>
                             </td>
                         </tr>
                         <tr id="tag_section">
@@ -144,6 +187,27 @@
                         <br>
                         <table id="dependencies" class="info_table current_info"></table>
                         <br>
+                    </div>
+
+                    <div class="current_commit">
+                        <div class="current_commit_header">
+                            <img id="current_commit_avatar" class="current_commit_avatar" alt="avatar" />
+                            <div id="current_commit_committer" class="current_commit_text current_commit_committer">
+                                <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg" />
+                            </div>
+                            <div class="current_commit_text">
+                                &nbsp;提交在&nbsp;
+                            </div>
+                            <div id="current_commit_date" class="current_commit_text current_commit_date">
+                                <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg" />
+                            </div>
+                            <a id="current_commit" class="current_commit_text link_info">
+                                <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg" />
+                            </a>
+                        </div>
+                        <div id="current_commit_message" class="current_commit_bottom">
+                            <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg" />
+                        </div>
                     </div>
                 </div>
             </div>
