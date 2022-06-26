@@ -760,7 +760,7 @@
 		},
 		"options": {
 			"prefix": "WEI",
-            "abandoned": true,
+            "abandoned": false,
             "createJar": true,
             "ignoreTags": true
 		},
