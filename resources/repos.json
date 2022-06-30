@@ -978,5 +978,24 @@
 				"1": "1.14+"
 			}
 		}
+	},
+	"SlimeTraditionalTranslation/RelicsOfCthonia:main": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": false,
+            "ignoreTags": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.16.5, 1.17.x, 1.18.x, 1.19.x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#232\">TEA #232</a> 或更高"
+		    }
+		}
 	}
 }
