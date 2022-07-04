@@ -986,7 +986,7 @@
 		"options": {
 			"prefix": "EFI",
             "abandoned": false,
-            "createJar": false,
+            "createJar": true,
             "ignoreTags": true
 		},
 		"dependencies": {
