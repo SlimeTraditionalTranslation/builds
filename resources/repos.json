@@ -980,6 +980,25 @@
 		    }
 		}
 	},
+	"SlimeTraditionalTranslation/CompressionCraft:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true,
+            "ignoreTags": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.17x, 1.18.x, 1.19x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#234\">TEA #234</a> 或更高"
+		    }
+		}
+	},
 	"SlimefunGuguProject/Bump:main": {
 		"sonar": {
 			"enabled": false
