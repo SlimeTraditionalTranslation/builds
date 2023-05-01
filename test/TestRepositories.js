@@ -27,6 +27,10 @@ fs.readFile(path.resolve(__dirname, "../resources/repos.json")).then((data) => {
 
     describe("Repository Validator", () => {
         for (var repo in json) {
+            if (repo === 'SlimefunGuguProject/Bump:main') {
+                continue;
+            }
+
             validate(repo);
         }
     });

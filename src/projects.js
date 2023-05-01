@@ -29,7 +29,7 @@ function getProjects (logging) {
 
       for (const repo in json) {
         if (repo === 'SlimefunGuguProject/Bump:main') {
-          log(logging, '-> Ignored Project "' + repo + '"')
+          log(logging, '-> Ignore Project "' + repo + '"')
           continue
         }
 
