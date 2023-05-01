@@ -28,6 +28,11 @@ function getProjects (logging) {
       const json = JSON.parse(data)
 
       for (const repo in json) {
+        if (repo === "SlimefunGuguProject/Bump:main") {
+          log(logging, '-> Ignored Project "' + repo + '"')
+          continue
+        }
+
         log(logging, '-> Found Project "' + repo + '"')
 
         const job = {
