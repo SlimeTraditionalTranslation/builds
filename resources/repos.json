@@ -1096,6 +1096,25 @@
 		    }
 		}
 	},
+	"SlimeTraditionalTranslation/Gastronomicon:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "Build_STCT",
+            "abandoned": false,
+            "createJar": true,
+            "ignoreTags": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.17.x - 1.19.x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#264\">TEA #264</a> 或更高"
+		    }
+		}
+	},
 	"SlimefunGuguProject/Bump:main": {
 		"sonar": {
 			"enabled": false
