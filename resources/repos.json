@@ -272,7 +272,7 @@
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI",
+			"prefix": "Build_STCT",
             "abandoned": false,
             "createJar": true,
             "ignoreTags": true
