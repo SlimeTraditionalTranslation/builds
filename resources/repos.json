@@ -1115,6 +1115,25 @@
 		    }
 		}
 	},
+	"SlimeTraditionalTranslation/SpiritsUnchained:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "Build_STCT",
+            "abandoned": false,
+            "createJar": true,
+            "ignoreTags": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.19.x - 1.20.x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#272\">TEA #272</a> 或更高"
+		    }
+		}
+	},
 	"SlimefunGuguProject/Bump:main": {
 		"sonar": {
 			"enabled": false
