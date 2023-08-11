@@ -91,7 +91,7 @@
 			"enabled": false
 		},
 		"options": {
-			"prefix": "WEI",
+			"prefix": "Build_STCT",
             "abandoned": false,
             "createJar": true,
             "ignoreTags": true
