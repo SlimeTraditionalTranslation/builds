@@ -1,0 +1,69 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------< io.github.thebusybiscuit:ExtraHeads >-----------------
+[INFO] Building ExtraHeads Build_STCT - 11 (git 5ad99aee)
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/org/spigotmc/spigot-api/1.20.1-R0.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/com/github/SlimeTraditionalTranslation/Locale-API/v1.0.2/Locale-API-v1.0.2.pom
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/SlimeTraditionalTranslation/Locale-API/v1.0.2/Locale-API-v1.0.2.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/SlimeTraditionalTranslation/Locale-API/v1.0.2/Locale-API-v1.0.2.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/SlimeTraditionalTranslation/Locale-API/v1.0.2/Locale-API-v1.0.2.pom (3.7 kB at 19 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/com/github/SlimeTraditionalTranslation/Locale-API/v1.0.2/Locale-API-v1.0.2.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/SlimeTraditionalTranslation/Locale-API/v1.0.2/Locale-API-v1.0.2.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/SlimeTraditionalTranslation/Locale-API/v1.0.2/Locale-API-v1.0.2.jar
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/SlimeTraditionalTranslation/Locale-API/v1.0.2/Locale-API-v1.0.2.jar (279 kB at 1.9 MB/s)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ ExtraHeads ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ ExtraHeads ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 3 resources
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ ExtraHeads ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 3 source files to /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraHeads/master/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ ExtraHeads ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraHeads/master/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ ExtraHeads ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ ExtraHeads ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ ExtraHeads ---
+[INFO] Building jar: /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraHeads/master/files/target/ExtraHeads-11.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.5.0:shade (default) @ ExtraHeads ---
+[INFO] Including org.bstats:bstats-bukkit:jar:3.0.2 in the shaded jar.
+[INFO] Including org.bstats:bstats-base:jar:3.0.2 in the shaded jar.
+[INFO] Including com.github.SlimeTraditionalTranslation:dough:jar:v1.0.0 in the shaded jar.
+[INFO] Including com.github.SlimeTraditionalTranslation.dough:dough-common:jar:v1.0.0 in the shaded jar.
+[INFO] Including com.github.SlimeTraditionalTranslation.dough:dough-updater:jar:v1.0.0 in the shaded jar.
+[INFO] Including com.github.SlimeTraditionalTranslation:Locale-API:jar:v1.0.2 in the shaded jar.
+[INFO] Including org.mini2Dx:gettext-lib:jar:1.11.0 in the shaded jar.
+[INFO] Including com.tunnelvisionlabs:antlr4-runtime:jar:4.7.3 in the shaded jar.
+[INFO] Minimizing jar io.github.thebusybiscuit:ExtraHeads:jar:Build_STCT - 11 (git 5ad99aee)
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraHeads/master/files/dependency-reduced-pom.xml
+[WARNING] ExtraHeads-11.jar, Locale-API-v1.0.2.jar define 1 overlapping resource: 
+[WARNING]   - plugin.yml
+[WARNING] maven-shade-plugin has detected that some files are
+[WARNING] present in two or more JARs. When this happens, only one
+[WARNING] single version of the file is copied to the uber jar.
+[WARNING] Usually this is not harmful and you can skip these warnings,
+[WARNING] otherwise try to manually exclude artifacts based on
+[WARNING] mvn dependency:tree -Ddetail=true and the above output.
+[WARNING] See https://maven.apache.org/plugins/maven-shade-plugin/
+[INFO] Minimized 367 -> 296 (80%)
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraHeads/master/files/target/ExtraHeads-11.jar with /home/runner/work/builds/builds/SlimeTraditionalTranslation/ExtraHeads/master/files/target/ExtraHeads-Build_STCT - 11 (git 5ad99aee)-shaded.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.077 s
+[INFO] Finished at: 2024-02-14T09:58:01Z
+[INFO] ------------------------------------------------------------------------
